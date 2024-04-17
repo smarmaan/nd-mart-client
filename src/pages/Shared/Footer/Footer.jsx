@@ -67,7 +67,7 @@ const Footer = () => {
         </div>
       </footer>
 
-      <footer className="footer footer-center p-4 bg-base-300 text-base-content">
+      <footer className="footer bg-opacity-10 bg-orange-300 glass footer-center p-4 text-base-content">
         <div>
           <p>© 2024 NEXT DOOR MART (E-commerce Website). All rights reserved.</p>
           <p>Created by NEXT DOOR MART Industries Ltd.</p>
